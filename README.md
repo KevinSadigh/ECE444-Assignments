@@ -1,2 +1,3 @@
-# ECE444-Assignments
-Assignments for Software Engineering (ECE444) at UofT
+# ECE444-F2023-Lab1
+Kevin Sadigh : This repo is a clone of
+https://github.com/miguelgrinberg/flasky. 
